@@ -1,0 +1,9 @@
+webpack help
+
+1. npm init // npm init -y // yes = согласиться со всеми предложеными параметрами
+2. После инициализации npm нужна установка --save-dev: 1.webpack, 2.его консольная утилита и 3. пакет для создания файлов:
+npm i webpack webpack-cli @webpack-cli/generators -D
+(появляются node_modules + package-lock.json)
+
+3. webpack init.
+npx webpack init
