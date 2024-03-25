@@ -1,1 +1,1 @@
-# webpack_test
+# 1_pr - minimal config
